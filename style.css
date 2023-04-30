@@ -1,0 +1,30 @@
+.buscador{
+    text-align: center;
+    margin-top: 25vh;
+
+    margin-top: 100px; 
+}
+
+#texto1{
+    font-family: "Montserrat";
+    margin: 10px;
+    font-size: 17px;
+    border-radius: 20px;
+    text-indent: 14px;
+}
+
+#buscar{
+    border-radius: 5px;
+}
+
+.titulos{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 40px;
+}
+
+p, #buscar{
+    font-family: "Montserrat", sans-serif;
+    font-size: small;
+    text-align: center;
+    
+}
